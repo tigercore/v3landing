@@ -5,25 +5,22 @@
 <head>
   <meta charset="utf-8">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
   <title>OnApp Cloud v3.0 | This is more than cloud</title>
-  <meta name="description" content="">
-
   
-  
+  <meta name="description" content="Running a successful cloud business is about much more than simple cloud orchestration. Your customers need more global presence for their apps and content. More affordable and reliable
+storage. More virtualization options.">
 
-
- <link rel="stylesheet" href="http://fast.fonts.com/cssapi/ae993575-c5d7-4a11-8962-52f889d0463c.css" type="text/css">
+  <link rel="stylesheet" href="http://fast.fonts.com/cssapi/ae993575-c5d7-4a11-8962-52f889d0463c.css" type="text/css">
   <link rel="stylesheet" href="css/style.css">
 
 
   <script src="js/libs/modernizr-2.5.3.min.js"></script>
 </head>
+
 <body>
 
-  
-  
 <div id="branding">
   <p id="logo">OnApp</p>
 
