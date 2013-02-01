@@ -402,28 +402,12 @@ footer {
 @import "_navigation";
 @import "_buttons";
 @import "_overlay";
+@import "_mediaqueries";
 
 @import "boilerplate-bottom";
 
-@media only screen and (max-width : 1024px)  {
 
-	div#carousel-wrapper div.images { 
-		width: 100%; 
 
-		h1 {
-			margin-left: 20px;
-		}
-
-		div { 
-
-			background-size: 97%;
-
-			a.button {
-				left: 20px;
-			}
-		}	
-	}
-}
 
 
 

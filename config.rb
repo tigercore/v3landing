@@ -21,4 +21,4 @@ line_comments = false
 preferred_syntax = :scss
 
 
-output_style = :compact # by Compass.app 
+output_style = :compressed # by Compass.app 

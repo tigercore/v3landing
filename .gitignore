@@ -17,4 +17,7 @@ xcuserdata
 .svn
 CVS
 
-.sass-cache
+#SASS Compiler Noise
+compass_app_log.txt
+.sass-cache/
+
