@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-",
+				"border-grey"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list-sy",
+				"list-style-type"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"E",
+				"Europe"
+			],
+			[
+				"O",
+				"Oceania"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"list-stl",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"level",
+				"level2"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"weekl",
+				"weekly-demos"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Geo",
+				"Georgia"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"utm",
+				"utm_source"
+			],
+			[
+				"utm_",
+				"utm_content"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"he",
+				"header-fonts"
+			],
+			[
+				"nor",
+				"normal"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"header",
+				"header-fonts"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"cookie",
+				"cookie-message"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"spli",
+				"splitName"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"form",
+				"form_data"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"lastnam",
+				"lastnames"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"arra",
+				"array_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packs",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cloudexpoeurope.group/style.css",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cloudexpoeurope.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cloudexpoeurope.group/thankyou.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/blog.group/.sidebar.html",
+		"/Users/Ryan/Sites/v3landing/partials/navgiation.php",
+		"/Users/Ryan/Sites/v3landing/img/cdn.png",
+		"/Users/Ryan/Sites/v3landing/partials:navigation.php",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/management.group/bio.html",
+		"/Users/Ryan/Desktop/boot/maps.js",
+		"/Users/Ryan/Desktop/boot/maps.html",
+		"/Users/Ryan/Desktop/boot/index.html",
+		"/Users/Ryan/Desktop/boot/stylesheets/skeleton.css",
+		"/Users/Ryan/Downloads/Frameless-master 2/frameless.scss",
+		"/Users/Ryan/Documents/Crisp 2/Crisp-cool/about.html",
+		"/Users/Ryan/Sites/dev.onapp.com/marketo/hash_generator.php",
+		"/Users/Ryan/Downloads/vector 5/vector-world-map.svg",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/events.group/index.html",
+		"/private/var/folders/35/8h29b9h978q9s9jrrhtrv6hw0000gn/T/0f44f876-c122-4dda-8007-992acfdd7803/www/site/wp-content/themes/cdn-wp/style.css",
+		"/private/var/folders/35/8h29b9h978q9s9jrrhtrv6hw0000gn/T/1a4e07f6-e7c6-4b3c-808b-ddaa14857b53/.htaccess",
+		"/Users/Ryan/Sites/cdn.net holding page/js/validator.js",
+		"/Users/Ryan/Sites/cdn.net holding page/index.php",
+		"/Users/Ryan/Sites/cdn.net holding page/css/formalize.css",
+		"/Dropbox/Freelance/ga/root/services.php",
+		"/Dropbox/Freelance/ga/root/commercial.php",
+		"/Dropbox/Freelance/ga/root/investment.php",
+		"/Dropbox/Freelance/ga/root/development.php",
+		"/Dropbox/Freelance/ga/root/residential.php",
+		"/Dropbox/Freelance/ga/root/index.php",
+		"/Dropbox/Freelance/ga/root/partials/dochead.php",
+		"/Dropbox/Freelance/ga/root/partials/header.php",
+		"/Dropbox/Freelance/ga/root/sass/style.scss",
+		"/Dropbox/Freelance/gabootstrap/root/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/_includes.group/.footer.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/templates.group/cloud-prices.html",
+		"/private/var/folders/35/8h29b9h978q9s9jrrhtrv6hw0000gn/T/fba8ed9b-dfa3-4ca5-8022-bb73465ebc3f/domains/bty-corp.co.uk/html/assets/templates/default_site/site.group/dochead.html",
+		"/Users/Ryan/Downloads/CampaignMonitorTemplate/index.html",
+		"/private/var/folders/35/8h29b9h978q9s9jrrhtrv6hw0000gn/T/fba8ed9b-dfa3-4ca5-8022-bb73465ebc3f/domains/bty-corp.co.uk/html/assets/templates/default_site/site.group/index.html",
+		"/Dropbox/Freelance/pembo2/assets/templates/default_site/site.group/index.html",
+		"/Dropbox/Freelance/pembo2/system/expressionengine/config/database.php",
+		"/Dropbox/Freelance/pembo2/assets/sass/news.scss",
+		"/Dropbox/Freelance/pembo2/assets/sass/homepage.scss",
+		"/Dropbox/Freelance/pembo2/assets/css/style.css",
+		"/Dropbox/Freelance/pembo2/assets/sass/navigation.scss",
+		"/Dropbox/Freelance/pembo2/assets/sass/actors.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/why-hosts-should-offer-cdn.group/style.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cpanel2012.group/thankyou.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cpanel2012.group/style.css",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cpanel2012.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/why-hosts-should-offer-cdn.group/thankyou.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cpanel.group/style.css",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cpanel.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/onapp-vs-openstack.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cdn-whitepaper.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/cdn-whitepaper.group/thankyou.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/_section-homepage.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/cp/expressionengine/third_party/onapp_api/language/english/lang.onapp_api.php",
+		"/Users/Ryan/Sites/dev.onapp.com/cp/expressionengine/third_party/onapp_api/mod.onapp_api.php",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/beta3.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-storage-beta.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-onapp.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-cloud-free.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/js/cloudBetaFormToMarketo.js",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-cloud-beta.html",
+		"/Users/Ryan/Sites/dev.onapp.com.sublime-project",
+		"/Users/Ryan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Ryan/Desktop/mod.onapp_api.php",
+		"/Dropbox/Freelance/pembo/perch/templates/content/_actor_listing.html",
+		"/Dropbox/Freelance/pembo/actor.php",
+		"/Dropbox/Freelance/pembo/male-actors.php",
+		"/Dropbox/Freelance/pembo/index.php",
+		"/Dropbox/Freelance/pembo/perch/templates/content/actor.html",
+		"/Dropbox/Freelance/pembo/_partials/header.php",
+		"/Dropbox/Freelance/pembo/_partials/head.php",
+		"/Dropbox/Freelance/pembo/_assets/sass/style.scss",
+		"/Dropbox/Freelance/pembo/perch/templates/content/_news_listing.html",
+		"/Dropbox/Freelance/pembo/perch/templates/content/news.html",
+		"/Dropbox/Freelance/pembo/news.php",
+		"/Dropbox/Freelance/pembo/article.php",
+		"/Dropbox/Freelance/pembo/perch/config/config.php",
+		"/Dropbox/Freelance/pembo/perch/templates/content/actor_listing.html",
+		"/Users/Ryan/Sites/sandbox/uniq-menu/sass/style.scss",
+		"/Users/Ryan/Sites/sandbox/uniq-menu/js/script.js",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/style.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/demos.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/css/style.css",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/_page-products.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/products.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/js/script.js",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/_includes.group/.header.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/_includes.group/.sidebar.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-cloud-full.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/templates.group/2-col.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/js/formToMarketo.js",
+		"/Users/Ryan/Sites/dev.onapp.com/cp/codeigniter/system/core/Common.php",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/onapp-vs-openstack.group/thankyou.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/customers.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/customers.group/view.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/_section-customers.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/search.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/_includes.group/.masthead.html",
+		"/Dropbox/Freelance/Kalouras Kitchen/root/index.html",
+		"/Dropbox/_OnApp/Jobs/010 - Cloud Spectator Repot Landing Page/html/sass/style.scss",
+		"/Dropbox/_OnApp/Jobs/010 - Cloud Spectator Repot Landing Page/html/index.php",
+		"/Dropbox/_OnApp/Jobs/010 - Cloud Spectator Repot Landing Page/html/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/_base.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-storage.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/hostingcon.group/thankyou.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/hostingcon.group/index.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/_buttons.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/sass/_section-storage.scss",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/templates.group/test.html",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/pages.group/get-r3-beta.html",
+		"/Users/Ryan/Sites/dev.onapp.com/cp/expressionengine/config/config.php",
+		"/Users/Ryan/Sites/dev.onapp.com/cp/expressionengine/third_party/cookie/pi.cookie.php",
+		"/Users/Ryan/Sites/ee_sandbox/system/expressionengine/config/config.php",
+		"/Users/Ryan/Sites/ee_sandbox/system/expressionengine/rte_tools/blockquote/rte.blockquote.php",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/templates/default_site/hostingcon.group/thanks.html",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/hostingCon/config.rb",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/hostingCon/sass/screen.scss",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/hostingCon/index.html",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/hostingCon/stylesheets/screen.css",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/formdesign/form.html",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/Marketo Form/_index.html",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/iPad Template.html",
+		"/Dropbox/_OnApp/Jobs/004 iPad Signup Template/Marketo Form/mktLPSupport.css",
+		"/Users/Ryan/Sites/dev.onapp.com/assets/config.rb",
+		"/Users/Ryan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"node_press_releases",
+			"CFE",
+			"=\"\";\n",
+			"form",
+			"label",
+			"</b>",
+			"<b>",
+			"      \n",
+			"intro",
+			"23px",
+			"quotes",
+			"box",
+			"customers",
+			"Company",
+			"form",
+			"hash",
+			"company_exists",
+			"<?",
+			">",
+			">\n",
+			"cta-button",
+			"nbsp",
+			"<img src=\"http://cdn.onapp.com/images/logos/product/cloud-logo.png\" style=\"float: right; height: 70px;\">",
+			">\n",
+			"ass",
+			"associate",
+			"{\n",
+			"blu",
+			";\n",
+			"background",
+			"\n",
+			"required/>",
+			">\n",
+			"  <div id=\"cookie-message\">\n    <div>\n      <h2>Cookies on the Onapp website</h2>\n      <p>We use cookies to ensure we give you the best experience on our website. If you continue, we'll assume that you are happy to receive all cookies on our website.</p>\n    </div>\n</div>",
+			"        <fieldset>\n          <ul>\n            <li class=\"clearfix\">\n              <label for=\"form-name\">Name*</label>\n              <div>\n                <input type=\"text\" id=\"form-name\" name=\"contact_name\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-title\">Title*</label> \n              <div>\n                <input type=\"text\" id=\"form-title\" name=\"position\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-email\">Email*</label> \n              <div>\n                <input type=\"email\" id=\"form-email\" name=\"email\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-phone\">Telephone*</label> \n              <div>\n                <input type=\"text\" id=\"form-phone\" name=\"telephone\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-time-zone\">Time zone*</label> \n              <div>\n                <select name=\"time_zone\" id=\"form-time-zone\" required>\n                      <option value=\"\">Please select your time zone</option>\n                      <option value=\"-12.0\">(GMT -12:00) Eniwetok, Kwajalein</option>\n                      <option value=\"-11.0\">(GMT -11:00) Midway Island, Samoa</option>\n                      <option value=\"-10.0\">(GMT -10:00) Hawaii</option>\n                      <option value=\"-9.0\">(GMT -9:00) Alaska</option>\n                      <option value=\"-8.0\">(GMT -8:00) Pacific Time (US &amp; Canada)</option>\n                      <option value=\"-7.0\">(GMT -7:00) Mountain Time (US &amp; Canada)</option>\n                      <option value=\"-6.0\">(GMT -6:00) Central Time (US &amp; Canada), Mexico City</option>\n                      <option value=\"-5.0\">(GMT -5:00) Eastern Time (US &amp; Canada), Bogota, Lima</option>\n                      <option value=\"-4.0\">(GMT -4:00) Atlantic Time (Canada), Caracas, La Paz</option>\n                      <option value=\"-3.5\">(GMT -3:30) Newfoundland</option>\n                      <option value=\"-3.0\">(GMT -3:00) Brazil, Buenos Aires, Georgetown</option>\n                      <option value=\"-2.0\">(GMT -2:00) Mid-Atlantic</option>\n                      <option value=\"-1.0\">(GMT -1:00 hour) Azores, Cape Verde Islands</option>\n                      <option value=\"0.0\">(GMT) Western Europe Time, London, Lisbon, Casablanca</option>\n                      <option value=\"1.0\">(GMT +1:00 hour) Brussels, Copenhagen, Madrid, Paris</option>\n                      <option value=\"2.0\">(GMT +2:00) Kaliningrad, South Africa</option>\n                      <option value=\"3.0\">(GMT +3:00) Baghdad, Riyadh, Moscow, St. Petersburg</option>\n                      <option value=\"3.5\">(GMT +3:30) Tehran</option>\n                      <option value=\"4.0\">(GMT +4:00) Abu Dhabi, Muscat, Baku, Tbilisi</option>\n                      <option value=\"4.5\">(GMT +4:30) Kabul</option>\n                      <option value=\"5.0\">(GMT +5:00) Ekaterinburg, Islamabad, Karachi, Tashkent</option>\n                      <option value=\"5.5\">(GMT +5:30) Bombay, Calcutta, Madras, New Delhi</option>\n                      <option value=\"5.75\">(GMT +5:45) Kathmandu</option>\n                      <option value=\"6.0\">(GMT +6:00) Almaty, Dhaka, Colombo</option>\n                      <option value=\"7.0\">(GMT +7:00) Bangkok, Hanoi, Jakarta</option>\n                      <option value=\"8.0\">(GMT +8:00) Beijing, Perth, Singapore, Hong Kong</option>\n                      <option value=\"9.0\">(GMT +9:00) Tokyo, Seoul, Osaka, Sapporo, Yakutsk</option>\n                      <option value=\"9.5\">(GMT +9:30) Adelaide, Darwin</option>\n                      <option value=\"10.0\">(GMT +10:00) Eastern Australia, Guam, Vladivostok</option>\n                      <option value=\"11.0\">(GMT +11:00) Magadan, Solomon Islands, New Caledonia</option>\n                      <option value=\"12.0\">(GMT +12:00) Auckland, Wellington, Fiji, Kamchatka</option>\n                </select>\n              </div>\n            </li>\n          </ul>\n        </fieldset>\n        <fieldset>\n          <ul>\n            <li class=\"clearfix\">\n              <label for=\"form-company\">Company*</label> \n              <div>\n                <input type=\"text\" id=\"form-company\" name=\"name\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-website\">Website*</label> \n              <div>\n                <input type=\"text\" id=\"form-website\" name=\"website\" required>\n              </div>\n            </li>\n\n            <li class=\"clearfix address\">\n              <label for=\"form-address1\">Address*</label> \n              <div>\n                <div><input type=\"text\" id=\"form-address1\" name=\"address1\" required></div>\n                <div><input type=\"text\" id=\"form-address2\" name=\"address2\"></div>\n                <div><input type=\"text\" id=\"form-address3\" name=\"address3\"></div>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-city\">City*</label> \n              <div>\n                <input type=\"text\" id=\"form-city\" name=\"city\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-region\">State / County*</label> \n              <div>\n                <input type=\"text\" id=\"form-region\" name=\"region\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-postcode\">Zip / Postcode*</label> \n              <div>\n                <input type=\"text\" id=\"form-postcode\" name=\"postcode\" required>\n              </div>\n            </li>\n            <li class=\"clearfix\">\n              <label for=\"form-country\">Country*</label>\n              <div>\n                <select id=\"form-country\" name=\"country\" required>\n                  {lv_country_select}\n                </select>\n              </div>\n            </li>\n          </ul>\n        </fieldset>",
+			"/>\n",
+			"/rs/",
+			"00afd8",
+			"00A3E7",
+			"matrix",
+			">",
+			"signup",
+			"      });",
+			"<tr>",
+			"ß",
+			"http://http://",
+			"eapps",
+			"lightbox",
+			"><",
+			"\"]').",
+			"())));",
+			"url(",
+			"line"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</strong>",
+			"<strong>",
+			"pill-button",
+			"/>",
+			"http://www2.onapp.com/rs/",
+			"00A3E7",
+			"990000",
+			"<tr class=\"row\">",
+			"http://",
+			"url(http://eu-e.marketo.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"assets/templates/default_site/site.group/scripts.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true
+}

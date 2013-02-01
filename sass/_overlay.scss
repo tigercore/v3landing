@@ -1,0 +1,22 @@
+/* the overlayed element */
+.simple_overlay {
+ 
+    display:none;
+    z-index:10000;
+    background-color:#333;
+    width:700px;
+    min-height:281px;
+    border: 5px solid #fff;
+}
+ 
+/* close button positioned on upper right corner */
+.simple_overlay .close {
+
+    background-image:url(/img/close.png);
+    position:absolute;
+    right:-20px;
+    top:-20px;
+    cursor:pointer;
+    height:35px;
+    width:35px;
+} 

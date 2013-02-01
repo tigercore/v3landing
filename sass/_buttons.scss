@@ -1,0 +1,66 @@
+/* Default button
+--------------------------------------------------------------------------------- */
+.button {
+  display:block;
+  float:left;
+  margin-top:20px;
+  padding:8px 20px;
+  border:0;
+  background:$onapp-blue;
+  @include background-image(linear-gradient(color-stops(rgb(0,175,216), rgb(0,157,205))));
+  @include border-radius(3px);
+  @include single-box-shadow(rgba(0,0,0,0.3), 1px, 1px, 2px);
+  font-family: $header-fonts;
+  font-size:1.076923076923077em; /* 14px */
+  line-height:1.428571428571429em; /* 20px */
+  white-space:nowrap;
+  color: #fff;
+
+
+  &:link,
+  &:visited {
+    color:#fff;
+  }
+
+  &:hover {
+    text-decoration:none;
+    color:#fff;
+    cursor: hand;
+    cursor: pointer;
+  }
+}
+
+.button:hover,
+.button:focus {
+  background:#1eb8dd;
+  @include background-image(linear-gradient(color-stops(rgb(49,196,227), rgb(21,167,211))));
+}
+
+.button:active {
+  padding:9px 20px 7px 20px;
+  background:#009ec3;
+  @include background-image(linear-gradient(color-stops(rgb(0,137,179), rgb(0,172,204))));
+  @include single-box-shadow(rgba(0,0,0,0.6), 0, 1px, 3px, 0, inset);
+}
+
+/* Cloud button
+--------------------------------------------------------------------------------- */
+.button-cloud {
+  background:#a2b71c;
+  @include background-image(linear-gradient(color-stops(#c0cf3c, #a2b71c)));
+  @include border-radius(3px);
+  @include single-box-shadow(rgba(0,0,0,0.3), 1px, 1px, 2px);
+  
+}
+
+.button-cloud:hover,
+.button-cloud:focus {
+  background:#c7d556;
+  @include background-image(linear-gradient(color-stops(#c7d556, #acbf30)));
+}
+
+.button-cloud:active {
+  background:#8da119;
+  @include background-image(linear-gradient(color-stops(#8da119, #b0bf37)));
+  @include single-box-shadow(rgba(0,0,0,0.6), 0, 1px, 3px, 0, inset);
+}
